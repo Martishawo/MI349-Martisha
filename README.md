@@ -1,3 +1,3 @@
 # MI349-Martisha
-## This is a subheader in Markdown∆
+## This is a subheader in Markdown
 
